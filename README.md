@@ -1,4 +1,4 @@
-<img src="name.svg" alt="ABRAR T. SARWAR" width="640">
+<img src="name.png" alt="ABRAR T. SARWAR" width="640">
 
 
 ### `CIS @ Georgia State · cybersecurity by trade, engineer by soul`
