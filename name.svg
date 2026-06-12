@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="859" height="339" viewBox="0 0 859 339" role="img" aria-label="ABRAR T. SARWAR">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9a3c"/>
+      <stop offset="38%" stop-color="#ff5e8a"/>
+      <stop offset="72%" stop-color="#b14bff"/>
+      <stop offset="100%" stop-color="#6a3cff"/>
+    </linearGradient>
+  </defs>
+  <text xml:space="preserve" font-family="'SFMono-Regular', Consolas, 'DejaVu Sans Mono', 'Liberation Mono', Menlo, monospace" font-size="22" font-weight="700" fill="url(#g)">
+    <tspan x="14" y="36">  █████╗  ██████╗  ██████╗   █████╗  ██████╗      ████████╗</tspan>
+    <tspan x="14" y="62"> ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗     ╚══██╔══╝</tspan>
+    <tspan x="14" y="88"> ███████║ ██████╔╝ ██████╔╝ ███████║ ██████╔╝        ██║</tspan>
+    <tspan x="14" y="114"> ██╔══██║ ██╔══██╗ ██╔══██╗ ██╔══██║ ██╔══██╗        ██║</tspan>
+    <tspan x="14" y="140"> ██║  ██║ ██████╔╝ ██║  ██║ ██║  ██║ ██║  ██║        ██║    ██╗</tspan>
+    <tspan x="14" y="166"> ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝        ╚═╝    ╚═╝</tspan>
+    <tspan x="14" y="192"> ███████╗  █████╗  ██████╗  ██╗    ██╗  █████╗  ██████╗</tspan>
+    <tspan x="14" y="218"> ██╔════╝ ██╔══██╗ ██╔══██╗ ██║    ██║ ██╔══██╗ ██╔══██╗</tspan>
+    <tspan x="14" y="244"> ███████╗ ███████║ ██████╔╝ ██║ █╗ ██║ ███████║ ██████╔╝</tspan>
+    <tspan x="14" y="270"> ╚════██║ ██╔══██║ ██╔══██╗ ██║███╗██║ ██╔══██║ ██╔══██╗</tspan>
+    <tspan x="14" y="296"> ███████║ ██║  ██║ ██║  ██║ ╚███╔███╔╝ ██║  ██║ ██║  ██║</tspan>
+    <tspan x="14" y="322"> ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝</tspan>
+  </text>
+</svg>

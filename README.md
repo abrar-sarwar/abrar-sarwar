@@ -1,17 +1,5 @@
-```
-  █████╗  ██████╗  ██████╗   █████╗  ██████╗      ████████╗
- ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗     ╚══██╔══╝
- ███████║ ██████╔╝ ██████╔╝ ███████║ ██████╔╝        ██║
- ██╔══██║ ██╔══██╗ ██╔══██╗ ██╔══██║ ██╔══██╗        ██║
- ██║  ██║ ██████╔╝ ██║  ██║ ██║  ██║ ██║  ██║        ██║    ██╗
- ╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝        ╚═╝    ╚═╝
- ███████╗  █████╗  ██████╗  ██╗    ██╗  █████╗  ██████╗
- ██╔════╝ ██╔══██╗ ██╔══██╗ ██║    ██║ ██╔══██╗ ██╔══██╗
- ███████╗ ███████║ ██████╔╝ ██║ █╗ ██║ ███████║ ██████╔╝
- ╚════██║ ██╔══██║ ██╔══██╗ ██║███╗██║ ██╔══██║ ██╔══██╗
- ███████║ ██║  ██║ ██║  ██║ ╚███╔███╔╝ ██║  ██║ ██║  ██║
- ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝
-```
+<img src="name.svg" alt="ABRAR T. SARWAR" width="640">
+
 
 ### `CIS @ Georgia State · cybersecurity by trade, engineer by soul`
 
@@ -65,11 +53,11 @@ $ git log --stat
 
 <div align="center">
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-sarwar&show_icons=true&theme=midnight-purple&hide_border=true)
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-sarwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff5e8a&icon_color=ff9a3c&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-sarwar&layout=compact&theme=midnight-purple&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-sarwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5e8a&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrar-sarwar&theme=midnight-purple&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrar-sarwar&hide_border=true&background=0d1117&ring=ff5e8a&fire=ff9a3c&currStreakNum=c9d1d9&currStreakLabel=b14bff&sideNums=c9d1d9&sideLabels=b14bff&dates=8b949e&stroke=b14bff)
 
 </div>
 
