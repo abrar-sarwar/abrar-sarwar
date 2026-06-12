@@ -53,8 +53,8 @@ $ uptime --now
 ```
 
 - **VP of the GSU Cybersecurity Club**, running workshops, growing the crew, competing in NCL
+- **VP of progsu**, helping organize **Hacklanta 2**, scaling a 1000+ student hackathon across Georgia
 - Top **10%** individually (724 / 7,006) and top **6%** team at **NCL Spring 2026**
-- Helping organize **Hacklanta 2**, scaling a 1000+ student hackathon across Georgia
 - On a coffee-shop world tour across Atlanta (send recs)
 
 ---
@@ -65,11 +65,11 @@ $ git log --stat
 
 <div align="center">
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-sarwar&show_icons=true&theme=tokyonight&hide_border=true)
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar-sarwar&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-sarwar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-sarwar&layout=compact&theme=midnight-purple&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrar-sarwar&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrar-sarwar&theme=midnight-purple&hide_border=true)
 
 </div>
 
