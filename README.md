@@ -19,7 +19,7 @@
 $ whoami
 ```
 
-Hey, I'm **Abrar** — a Computer Information Systems student at Georgia State, into CS and security since I was the kid running Minecraft LAN servers and fixing the TV when it cut out. I build security tooling, break things on purpose in CTFs, and lead a cybersecurity club on the side. Long term I want to be a **solutions architect** — building systems that actually solve problems for the people using them.
+Hey, I'm **Abrar**, a Computer Information Systems student at Georgia State. I've been into CS and security since I was the kid running Minecraft LAN servers and fixing the TV when it cut out. I build security tooling, break things on purpose in CTFs, and lead a cybersecurity club on the side. Long term I want to be a **solutions architect**, building systems that actually solve problems for the people using them.
 
 I treat every day like a side quest worth grinding. If you've got hiking spots or a fire coffee shop in ATL, let's talk.
 
@@ -52,23 +52,10 @@ $ cat toolbox.txt
 $ uptime --now
 ```
 
-- **VP of the GSU Cybersecurity Club** — running workshops, growing the crew, competing in NCL
+- **VP of the GSU Cybersecurity Club**, running workshops, growing the crew, competing in NCL
 - Top **10%** individually (724 / 7,006) and top **6%** team at **NCL Spring 2026**
-- Helping organize **Hacklanta 2** — scaling a 1000+ student hackathon across Georgia
-- **AI Security & IT Intern @ Handshake** — stress-testing AI outputs for accuracy and risk
+- Helping organize **Hacklanta 2**, scaling a 1000+ student hackathon across Georgia
 - On a coffee-shop world tour across Atlanta (send recs)
-
----
-
-```console
-$ ls ~/projects
-```
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[CounterStack](https://counterstack.dev)** — *Hacklanta Winner, built in 12h* | Consolidated 3 SIEM sources into a PostgreSQL backbone and mapped NIST CSF data to an AI-generated security posture score. Turned risk into a readable 4-card "poker hand" UX. | PostgreSQL · Gemini · NIST CSF · Full-Stack |
-| **TripWire** — *Serverless AWS detection & auto-response* | CloudTrail → EventBridge → Lambda pipeline detecting high-risk IAM/S3/EC2 events in seconds, mapped to MITRE ATT&CK. boto3 Lambdas auto-revert public buckets and open SGs at sub-10s response. | AWS · Lambda · boto3 · MITRE ATT&CK |
-| **GLINT** — *ShinyHunters OSINT research* | Deep threat-intel research on the ShinyHunters cluster across 3 campaigns (UNC5537, UNC6395, 2026 Canvas extortion). Every claim cited to Mandiant and vendor disclosures. | OSINT · Threat Intel · Research |
 
 ---
 
